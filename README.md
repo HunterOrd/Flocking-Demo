@@ -31,6 +31,8 @@ The GLFW, GLEW, and GMTL libraries are used in the code.
 
 -glfw3.dll from GLFW's lib-vc2017 directory. 
 
+-GMTL zip has a floder named "gmtl". Put this floder into VC\include the same way as GLFW and GLEW.
+
 # Image credits
 
 -Middle Sphere: Saki from the anime Zombie Land Saga
