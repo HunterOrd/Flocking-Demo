@@ -33,6 +33,25 @@ The GLFW, GLEW, and GMTL libraries are used in the code.
 
 -GMTL zip has a floder named "gmtl". Put this floder into VC\include the same way as GLFW and GLEW.
 
+# Controls 
+
+"w" - sets it to world view
+
+"e" - sets it to the O plane location
+
+"z" - rotates the camera around 90 degrees when centerd on the plane
+
+"mouse movements" - when the button is held will move the camera
+
+"N" - Zooms the camera out
+
+"M" - Zooms the camera in
+
+"A" - Turns off the global lighting
+
+"D" - Turns off the Diffuse lighting
+
+
 # Image credits
 
 -Middle Sphere: Saki from the anime Zombie Land Saga
