@@ -25,7 +25,7 @@ The GLFW, GLEW, and GMTL libraries are used in the code.
 
 -glfw3.lib from GLFW’s lib-vc2017 directory
 
--Copy the following Into C:\Windows\SysWOW64 (some users prefer to avoid installing DLLs. Again, we do not want to receive libraries in your program submissions).
+-Copy the following Into C:\Windows\SysWOW64
 
 -glew32.dll from GLEW's bin\Release\Win32. 
 
